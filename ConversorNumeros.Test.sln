@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorNumeros.Test", "ConversorNumeros.Test\ConversorNumeros.Test.csproj", "{39A8F722-6632-48A5-AEDB-9FEBE5026BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorNumerosRomanosParaArabico", "ConversorNumerosRomanosParaArabico\ConversorNumerosRomanosParaArabico.csproj", "{5C27A51E-850C-4644-A6C8-E41EB90FBBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A8F722-6632-48A5-AEDB-9FEBE5026BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A8F722-6632-48A5-AEDB-9FEBE5026BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A8F722-6632-48A5-AEDB-9FEBE5026BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A8F722-6632-48A5-AEDB-9FEBE5026BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C27A51E-850C-4644-A6C8-E41EB90FBBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C27A51E-850C-4644-A6C8-E41EB90FBBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C27A51E-850C-4644-A6C8-E41EB90FBBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C27A51E-850C-4644-A6C8-E41EB90FBBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB732162-FA36-407E-A9E4-35DEBEBBBC02}
+	EndGlobalSection
+EndGlobal
